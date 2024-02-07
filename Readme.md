@@ -8,15 +8,11 @@ Da mesma forma que fizemos a criação dos use cases realizando as operações:
 Crie as operações mencionadas acima para nossa entidade: "Product". Implemente
 os testes de unidade e integração nos quatro use cases.
 
-- A linguagem de programação para este desafio é **TypeScript**
-
 ## 2 - Desafio: API de Products
 
 Da mesma forma que fizemos a listagem dos nossos Customers em nossa API, repita
 o mesmo processo e realize a listagem de Products. Não deixe de realizar o teste
 automatizado end-to-end.
-
-- A linguagem de programação para este desafio é **TypeScript**
 
 ## 3 - Desafio: Notification Pattern em Products
 
@@ -29,7 +25,17 @@ Products. Não deixe de realizar os testes automatizados.
 
 Adicione um teste que acumule dois erros ao mesmo tempo.
 
-- A linguagem de programação para este desafio é **TypeScript**
+## 4 - Desafio: Validação de Products
+
+Agora que aprendemos a criar o processo de validação, bem como minimizar o
+acoplamento em nosso domínio, você deverá realizar o processo de validação na
+entidade Product seguindo o mesmo processo.
+
+OBS: Não deixe de verificar se todos os testes ainda estão passando.
+
+## 
+
+> OBS.: A linguagem de programação para este desafio é **TypeScript**
 
 ## Como usar
 
